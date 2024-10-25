@@ -1,6 +1,6 @@
 # NOTE: Very old with shockingly terrible code
-I made this so long ago. it ust has if statements and is an interpreter inside of an interpreter.
-So its solow, bad, and has basically zero useful features. like not even varibles exist :(
+I made this so long ago. it just has input and output and is an interpreter inside of an interpreter.
+So its slow, bad, and has basically zero useful features. like not even varibles exist :(
 And no why would I ever work on this
 # Jam
 Jam is a very simple interpreted programming language made using python.
